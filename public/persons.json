@@ -1,0 +1,4 @@
+[
+  {"id": "1", "name": "Alice", "relatedPersonId": "2"},
+  {"id": "2", "name": "Bob", "relatedPersonId": "1"}
+]
